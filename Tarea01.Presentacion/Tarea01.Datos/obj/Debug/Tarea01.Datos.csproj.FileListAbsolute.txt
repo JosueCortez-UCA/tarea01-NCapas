@@ -1,0 +1,9 @@
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\bin\Debug\Tarea01.Datos.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\bin\Debug\Tarea01.Datos.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\bin\Debug\Tarea01.Entidades.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\bin\Debug\Tarea01.Entidades.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\obj\Debug\Tarea01.Datos.csprojAssemblyReference.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\obj\Debug\Tarea01.Datos.csproj.CoreCompileInputs.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\obj\Debug\Tarea01.Datos.csproj.CopyComplete
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\obj\Debug\Tarea01.Datos.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Datos\obj\Debug\Tarea01.Datos.pdb

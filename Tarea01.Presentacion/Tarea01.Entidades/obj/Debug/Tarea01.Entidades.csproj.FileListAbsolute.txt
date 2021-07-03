@@ -1,0 +1,6 @@
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Entidades\bin\Debug\Tarea01.Entidades.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Entidades\bin\Debug\Tarea01.Entidades.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Entidades\obj\Debug\Tarea01.Entidades.csprojAssemblyReference.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Entidades\obj\Debug\Tarea01.Entidades.csproj.CoreCompileInputs.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Entidades\obj\Debug\Tarea01.Entidades.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Entidades\obj\Debug\Tarea01.Entidades.pdb

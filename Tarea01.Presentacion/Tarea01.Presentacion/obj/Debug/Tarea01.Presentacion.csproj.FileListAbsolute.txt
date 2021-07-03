@@ -1,0 +1,17 @@
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Presentacion.exe.config
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Presentacion.exe
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Presentacion.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Negocio.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Datos.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Entidades.dll
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Negocio.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Datos.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\bin\Debug\Tarea01.Entidades.pdb
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.csprojAssemblyReference.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.FrmPrincipal.resources
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.Properties.Resources.resources
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.csproj.GenerateResource.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.csproj.CoreCompileInputs.cache
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.csproj.CopyComplete
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.exe
+C:\Develop\Tarea 01\Tarea01.Presentacion\Tarea01.Presentacion\obj\Debug\Tarea01.Presentacion.pdb
